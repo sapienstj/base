@@ -1,6 +1,6 @@
 ---
-bookToc: true
-title: Bem-vindo à Base!
+bookToc: false
+title: Bem-vindos à Base!
 ---
 {{<image "/images/base.png">}}
 
@@ -12,4 +12,6 @@ Essa é uma plataforma de onboarding e repositório de conhecimento sobre todos 
 Ninguém nasce sabendo tudo mas é bom ter onde aprender tudo o que quiser. É por isso que a Sapiens mantém diversos **tutoriais** e **passo a passos** sobre tudo o que você precisa saber pra deixar sua marca na história da nossa casa de ideias.
 
 Quer aprender as principais **ferramentas gráficas**, aprender a lidar com clientes, escrever para as nossas **plataformas** e se tornar um profissional **mais** completo? Então você tem o que precisa *e só faltou a **base**.*
+
+Comece explorando algum assunto no menu lateral, se você estiver **no celular**, é só tocar no ícone da **esquerda**!
 
