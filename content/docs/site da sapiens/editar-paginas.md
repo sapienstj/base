@@ -10,7 +10,7 @@ Na página de login, clique em `Entrar com o Netlify Identity` > `Continue with 
 
 >Na página principal você pode visualizar os diversos tipos de conteúdo que nós temos no nosso site. 
 
-Clique em `Páginas` no menu lateral esquerdo e depois em uma das páginas
+Clique em `Páginas` no menu lateral esquerdo e depois na página onde você quer editar o texto. Lembrando que esse menu só edita os textos em si, a alteração do conteúdo dos cards é feita em outro castelo!
 
 Agora é só customizar os campos e quando acabar, é só clicar em Publicar lá em cima!
 
