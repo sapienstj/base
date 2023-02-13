@@ -12,7 +12,7 @@ Desenvolvido com tecnologias 100% gratuitas, o [Site da Sapiens](https://agencia
 Nele estão catalogados os nossos jobs entregues(e os responsáveis), os atuais membros da nossa equipe(e suas principais funções) além do formulário onde receberemos inscrições dos futuros sapienses durante o período da Seletiva.
 {{< /hint >}}
 
-Confira tudo o que você precisa saber para criar, escrever e gerenciar matérias no nosso blog.
+Confira tudo o que você precisa saber para alterar e adicionar elementos no nosso site.
 
 Então, vamos começar?
 
