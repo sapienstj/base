@@ -48,4 +48,4 @@ Caso algum dos nossos produtores estejam envolvidos, coloque os nomes separando-
 
 Agora que você está fera, que tal aprender sobre a versão online do nosso jornal, o
 
-{{< button target="_self" href="/docs/tominformativo" >}}Tom Informativo{{< /button >}}
+{{< button target="_self" href="/tominformativo" >}}Tom Informativo{{< /button >}}

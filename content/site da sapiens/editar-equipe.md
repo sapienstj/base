@@ -38,4 +38,4 @@ O ideal é que você use uma imagem quadrada pois ela será cortada para encaixa
 
 Agora que você está fera, só falta:
 
-{{< button target="_self" href="/docs/site-da-sapiens/adicionar-jobs" >}}Adicionar Jobs{{< /button >}}
+{{< button target="_self" href="/site-da-sapiens/adicionar-jobs" >}}Adicionar Jobs{{< /button >}}

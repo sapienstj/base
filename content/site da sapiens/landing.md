@@ -30,4 +30,4 @@ São as frases que rotacionam na nossa landing, elas aparecem embaixo do texto m
 
 Agora que você sabe montar a Landing, é uma boa hora para aprender a
 
-{{< button target="_self" href="/docs/site-da-sapiens/editar-paginas" >}}Editar Páginas{{< /button >}}
+{{< button target="_self" href="/site-da-sapiens/editar-paginas" >}}Editar Páginas{{< /button >}}

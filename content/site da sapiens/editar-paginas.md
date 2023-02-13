@@ -31,10 +31,10 @@ Caso você precise relembrar o que cada campo faz, escolha uma página e confira
 É o texto principal da página, o maior.
 
 ### Descrição
-É o texto que explica a seletiva e tenta convencer o aluno à se inscrever. Vai ao lado do formulário de contato, podendo ser bem longo.
+É o texto que explica a seletiva e tenta convencer o aluno à se inscrever. Vai ao lado do formulário de contato.
 {{< /tab >}}
 {{< /tabs >}}
 
 Agora que você sabe montar páginas, que tal aprender à
 
-{{< button target="_self" href="/docs/site-da-sapiens/editar-equipe" >}}Editar Equipe{{< /button >}}
+{{< button target="_self" href="/site-da-sapiens/editar-equipe" >}}Editar Equipe{{< /button >}}
