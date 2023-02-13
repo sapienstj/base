@@ -17,6 +17,6 @@ Comece explorando algum assunto no menu lateral, se você estiver **no celular**
 
 Aqui você também encontra informações sobre o funcionamento dos nossos sites:
 
-{{< button target="_self" href="/docs/site-da-sapiens/" >}}Site da Sapiens{{< /button >}} {{< button target="_self" href="/docs/blog/" >}}Blog da Sapiens{{< /button >}} {{< button target="_self" href="/docs/tominformativo/" >}}Tom Informativo{{< /button >}}
+{{< button target="_self" href="/site-da-sapiens/" >}}Site da Sapiens{{< /button >}} {{< button target="_self" href="/blog/" >}}Blog da Sapiens{{< /button >}} {{< button target="_self" href="/tominformativo/" >}}Tom Informativo{{< /button >}}
 
 

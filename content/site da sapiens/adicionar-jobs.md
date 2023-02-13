@@ -38,7 +38,7 @@ Caso algum dos nossos produtores estejam envolvidos, coloque os nomes separando-
 É a imagem de capa do job, a principal, que ilustra o card e fica no topo da página quando ele é aberto.
 {{< /details >}}
 {{< details title="Conteúdo" open=false >}}
-É a descrição do que foi feito, qual era a ideia e o que nós produzimos. Use textos E imagens. Caso queira aprender a adicionar textos e imagens clique [aqui](/docs/blog/multimidia).
+É a descrição do que foi feito, qual era a ideia e o que nós produzimos. Use textos E imagens. Caso queira aprender a adicionar textos e imagens clique [aqui](/blog/multimidia).
 {{< /details >}}
 
 
