@@ -15,3 +15,8 @@ Quer aprender as principais **ferramentas gráficas**, aprender a lidar com clie
 
 Comece explorando algum assunto no menu lateral, se você estiver **no celular**, é só tocar no ícone da **esquerda**!
 
+Aqui você também encontra informações sobre o funcionamento dos nossos sites:
+
+{{< button target="_self" href="/docs/site-da-sapiens/" >}}Site da Sapiens{{< /button >}} {{< button target="_self" href="/docs/blog/" >}}Blog da Sapiens{{< /button >}} {{< button target="_self" href="/docs/tominformativo/" >}}Tom Informativo{{< /button >}}
+
+

@@ -4,7 +4,7 @@
 -->
 {{ $title := "" }}
 
-{{ if .LinkTitle }}
+{{ if .Params.image }}
   {{ $title = .LinkTitle }}
 {{ else if .Title }}
   {{ $title = .Title }}
